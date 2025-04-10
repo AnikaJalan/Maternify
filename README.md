@@ -9,27 +9,8 @@ Maternify is an AI-powered platform for pregnancy risk assessment and fetal heal
 - Dual-prediction system for early detection and prevention  
 - Real-time fetal health monitoring  
 - Intelligent chatbot providing medical information  
+
  
-
-## Installation  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/yourusername/maternify.git
-
-2. Navigate to the project directory:
-   ```sh
-   cd maternify
-
-3. Install dependencies:
-    ```sh
-    pip install -r requirements.txt
-
-4. Run the Project
-    ```sh
-    python app.py
-
-
-    
 ## Backend
 Framework:
 
